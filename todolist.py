@@ -1,4 +1,3 @@
-# Function for showing the entire list
 def showList(t):
     centerString = "YOUR TO DO LIST"
     print(centerString.center(50, "."))
